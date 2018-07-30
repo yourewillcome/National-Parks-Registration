@@ -1,0 +1,11 @@
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\bin\Debug\Capstone.Tests.dll
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\bin\Debug\Capstone.Tests.pdb
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\bin\Debug\Capstone.exe
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\bin\Debug\Capstone.pdb
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\bin\Debug\Capstone.exe.config
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csprojAssemblyReference.cache
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CopyComplete
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.dll
+C:\Workspace\teams\team9-c-week6-pair-exercises\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.pdb
